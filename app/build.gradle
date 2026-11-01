@@ -10,7 +10,7 @@ android {
 	
 	defaultConfig {
 		applicationId "com.ahmed.app"
-		namespace "com.kimo.mogtama"
+		namespace "com.ahmed.app"
 		minSdkVersion 23
 		targetSdkVersion 35
 		versionCode 1

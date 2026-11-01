@@ -85,7 +85,7 @@
 				android:textColor="#111111"
 				android:textSize="15sp"
 				android:textStyle="bold" />
-			<com.kimo.mogtama.ChatActivity.WaveformView
+			<com.ahmed.app.ChatActivity.WaveformView
 				android:id="@+id/recording_waveform"
 				android:layout_width="0dp"
 				android:layout_height="48dp"
